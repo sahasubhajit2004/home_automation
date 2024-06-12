@@ -13,6 +13,7 @@ BluetoothSerial SerialBT;
 #define RelayPin1 23  //D23
 #define RelayPin2 22  //D22
 #define RelayPin3 21  //D21
+
 #define RelayPin4 19  //D19
 #define RelayPin5 18  //D18
 #define RelayPin6 5   //D5
